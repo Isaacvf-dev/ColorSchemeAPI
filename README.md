@@ -4,7 +4,7 @@
 
 ![Final result of the project](preview.jpg)
 
-<h4 align="center"><a href="">Click to visit the project</a></h4>
+<h4 align="center"><a href="https://ucolory.netlify.app/">Click to visit the project</a></h4>
 
 ---
 
